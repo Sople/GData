@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<datasources>
+    <datasource>
+        <jdbc>
+            <property name="driver">com.mysql.jdbc.Driver</property>
+            <property name="url">jdbc:mysql://localhost:3306/geegkdb</property>
+            <property name="username">root</property>
+            <property name="password">liuyancao</property>
+        </jdbc>
+    </datasource>
+</datasources>
